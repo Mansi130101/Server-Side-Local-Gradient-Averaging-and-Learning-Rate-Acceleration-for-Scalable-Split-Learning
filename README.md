@@ -12,6 +12,3 @@ To run the code for experiments use the following in the command line:
 
 Below is the figure from the paper, depicting the various previously used learning architectures and the solutions proposed in the paper:
 ![image](https://github.com/Mansi130101/Server-Side-Local-Gradient-Averaging-and-Learning-Rate-Acceleration-for-Scalable-Split-Learning/assets/58467251/f0b426df-18fc-4ee9-b919-c78c10186568)
-
-For future works, studies on Extending SplitLr: cyclic learning rate splitting method, Convergence Analysis, and Differential Privacy Analysis on SplitAvg can be taken ahead.
-
